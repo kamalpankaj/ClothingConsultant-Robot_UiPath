@@ -19,3 +19,8 @@ See if you augment clothing consultant to help you pack for a trip.
   <br/>
 
 UiPath Studio
+ 
+ <br/>
+ 
+ <b>Activity Details<b>
+   
